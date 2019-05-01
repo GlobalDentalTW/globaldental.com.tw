@@ -715,8 +715,8 @@ function MM_swapImage() { //v3.0
     <div id="opd-time">
       <div class="menu-text">
         看診時間：<br />
-        9 AM - 12 PM<br />
-        2:30 PM - 10 PM<br />
+        9 AM - 11:30 AM<br />
+        2:30 PM - 9:30 PM<br />
         請來電預約</div></div>
 	<div id="clinic">
       <div class="footer">全球牙醫診所（
